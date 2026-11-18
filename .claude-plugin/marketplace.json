@@ -1,0 +1,5 @@
+{
+  "name": "studio-director-mod",
+  "owner": { "name": "hassanscp112" },
+  "plugins": [{ "name": "studio", "source": "./" }]
+}
